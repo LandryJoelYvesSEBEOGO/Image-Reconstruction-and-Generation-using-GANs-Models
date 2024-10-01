@@ -76,11 +76,6 @@ To set up the environment for these projects, follow these steps:
     cd GAN-Projects
     ```
 
-2. Install the required Python libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 *Note*: The `requirements.txt` file should contain dependencies such as `torch`, `tensorflow`, `numpy`, `matplotlib`, etc.
 
 ---
