@@ -56,6 +56,9 @@ SRGAN is designed to upscale low-resolution images into high-resolution images u
 ### Overview
 ESRGAN builds upon SRGAN to deliver even more realistic and high-quality super-resolution images. It replaces conventional residual blocks with Residual-in-Residual Dense Blocks (RRDB) and employs a Relativistic Average Discriminator (RaD) for improved adversarial training.
 
+Following network will be the implementation of the ESRGan Nework proposed by ESRGAN Research Paper
+![link img](https://esrgan.readthedocs.io/en/latest/_images/architecture.png)
+
 ### Key Features
 - Advanced residual blocks (RRDB) for enhanced image reconstruction.
 - Relativistic Discriminator to generate sharper and more detailed images.
