@@ -2,6 +2,8 @@
 
 This repository contains three advanced projects focusing on Generative Adversarial Networks (GANs) for various image processing tasks. Each project explores different GAN architectures to enhance or generate high-quality images. 
 
+![Generative Images](images/pneumonia_xray.jpg)
+
 ## Table of Contents
 
 - [Projects Overview](#projects-overview)
